@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">cwActivities</string>
+    <string name="message1">This is the Message to Read</string>
+    <string name="message2"> I have read the Message</string>
+    <string name="btnInfo"> Click arrow to move to next screen</string>
+
+</resources>
